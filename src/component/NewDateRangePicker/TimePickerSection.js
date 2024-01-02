@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import TimeInput from '../../component/TimeInput';
+import TimeInput from '../TimeInput';
 
 const TimePickerSection = ({
   startTime,
