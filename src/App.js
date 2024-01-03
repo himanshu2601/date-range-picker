@@ -14,7 +14,7 @@ function App({
   ranges
 }) {
   return (
-    <div className="App">
+    // <div className="App">
        <NewDateRangePicker
               startDate={startDate}
               endDate={endDate}
@@ -24,7 +24,7 @@ function App({
               ranges={ranges}
               key={moment()}
             />
-    </div>
+    // </div>
   );
 }
 

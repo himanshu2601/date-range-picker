@@ -1,6 +1,6 @@
 {
   "name": "hg-date-range-picker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DateRangePicker build over rsuite/daterangepicker",
   "private": false,
   "repository": {
